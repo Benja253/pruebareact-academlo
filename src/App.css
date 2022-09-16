@@ -1,0 +1,11 @@
+.on {
+  background-color: yellow;
+}
+.off {
+  background-color: #ccc;
+}
+.bulb {
+  width: 200px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+}
